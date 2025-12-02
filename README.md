@@ -1,29 +1,31 @@
 # Hi, I’m Jahily Andrea Morales 👋
 
-### Business Data Analyst | Curious • Passionate • (A little) Goofy 😄
-
-I’m an optimistic and curious data enthusiast who loves learning new things and turning data into stories that create real-world impact. I enjoy combining analytical thinking with creativity and I always bring good energy to the work I do.
+Curious, passionate, and always learning — I love turning data into insights that drive meaningful impact.
 
 ---
 
 ## 🌎 My Journey
 
-I hold a degree in **Industrial Engineering** from Colombia and began my professional career at **Ernst & Young**, where I worked analyzing business processes. That experience showed me how powerful data can be for driving smarter decisions.
+Industrial Engineer from Colombia with experience at **Ernst & Young** analyzing business processes.  
+My growing curiosity for data led me into **Data Science, Big Data, and Power BI**, and I’m currently pursuing a postgraduate degree in **Business Analytics in Canada** as an international student.
 
-Motivated to learn more, I dove into **Data Science, Big Data, and Power BI** through specialized training and certifications. I discovered how much I truly enjoy working with data, so I took the next step and moved to **Canada** to study **Business Analytics** as an **international student**.
-
-My goal is to grow as a **Business/Data Analyst**, adding value to organizations through insights, storytelling, and data-driven strategies — especially in areas connected to sustainability and social impact.
+I’m growing as a **Business Data Analyst**, creating insights that support informed decision-making — especially in projects connected to sustainability and social impact.
 
 ---
+
 ## 📂 Projects
+
+
 ---
+
 ## 🛠 Skills
 
-- **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn) | SQL (basic)
-- **Analytics & BI**: Excel | Power BI |
-- **Automation**: Web testing automation | Workflow validation
+- **Programming**: Python (Pandas, NumPy, Matplotlib, Scikit-learn) | SQL (Basic)  
+- **Analytics & BI**: Excel | Power BI  
+- **Automation**: Web testing automation | Workflow validation  
 
 ---
+
 ## 🗣️ Languages
 
 - Spanish — Native  
@@ -41,6 +43,7 @@ My goal is to grow as a **Business/Data Analyst**, adding value to organizations
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/jahilyandreamoralesfonseca](https://www.linkedin.com/in/jahilyandreamoralesfonseca/)
+- 💼 LinkedIn: [linkedin.com/in/jahilyandreamoralesfonseca](https://www.linkedin.com/in/jahilyandreamoralesfonseca/)  
 - 🧑‍💻 GitHub: [github.com/Jahily1](https://github.com/Jahily1)
+
 
