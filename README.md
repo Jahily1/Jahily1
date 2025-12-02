@@ -16,24 +16,14 @@ My goal is to grow as a **Business Data Analyst**, adding value to organizations
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Skills
 
-**Programming**
-- Python
-- SQL (Basic)
-
-**Analytics & BI Tools**
-- Excel
-- Power BI
-
-**Data Science & ML**
-- pandas
-- scikit-learn
-- NLP
-
-**Other**
-- Workflow automation
-- QA test automation
+| Category | Tools |
+|---------|--------|
+| **Programming** | Python · SQL (basic) |
+| **Analytics & BI** | Excel · Power BI |
+| **Data Science / ML** | pandas · scikit-learn · NLP |
+| **Automation** | Web testing automation · Workflow validation |
 
 ---
 
