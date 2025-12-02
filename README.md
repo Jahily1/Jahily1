@@ -12,57 +12,18 @@ I hold a degree in **Industrial Engineering** from Colombia and began my profess
 
 Motivated to learn more, I dove into **Data Science, Big Data, and Power BI** through specialized training and certifications. I discovered how much I truly enjoy working with data, so I took the next step and moved to **Canada** to study **Business Analytics** as an **international student**.
 
-My goal is to grow as a **Business Data Analyst**, adding value to organizations through insights, storytelling, and data-driven strategies — especially in areas connected to sustainability and social impact.
+My goal is to grow as a **Business/Data Analyst**, adding value to organizations through insights, storytelling, and data-driven strategies — especially in areas connected to sustainability and social impact.
 
 ---
-
+## 📂 Projects
+---
 ## 🛠 Skills
 
-| Category | Tools |
-|---------|--------|
-| **Programming** | Python · SQL (basic) |
-| **Analytics & BI** | Excel · Power BI |
-| **Data Science / ML** | pandas · scikit-learn · NLP |
-| **Automation** | Web testing automation · Workflow validation |
+- **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn) | SQL (basic)
+- **Analytics & BI**: Excel | Power BI |
+- **Automation**: Web testing automation | Workflow validation
 
 ---
-
-## 📂 Projects
-
-### 🔹 Machine Learning vs Deep Learning Comparison
-Compared two traditional ML models and one deep learning model on the same dataset.  
-- Data preprocessing and cleaning  
-- Feature engineering  
-- Model training and evaluation  
-- Performance comparison  
-
-### 🔹 Power BI – Lyft Rides Analysis (Ottawa)
-Built an interactive dashboard exploring my Lyft ride history to analyze:
-- Usage patterns
-- Cost trends
-- Time-based insights
-
-### 🔹 Power BI – U.S. Traffic Accident Dashboard
-Analyzed public traffic accident data from the United States to visualize:
-- Accident frequency by region and time
-- Trends and risk patterns
-- Interactive visual storytelling
-
-### 🔹 Automation Testing Projects
-- Built automated scripts to validate web form inputs and ensure correct data acceptance.
-- Developed navigation automation to test full website flows and user journeys end-to-end.
-
----
-
-## 🌱 Currently Learning
-
-- Deepening **Python for Data Analytics**
-- Strengthening **SQL**
-- Advanced dashboards & data storytelling in **Power BI**
-- Applied **Machine Learning**
-
----
-
 ## 🗣️ Languages
 
 - Spanish — Native  
@@ -83,6 +44,3 @@ Analyzed public traffic accident data from the United States to visualize:
 - 💼 LinkedIn: [linkedin.com/in/jahilyandreamoralesfonseca](https://www.linkedin.com/in/jahilyandreamoralesfonseca/)
 - 🧑‍💻 GitHub: [github.com/Jahily1](https://github.com/Jahily1)
 
----
-
-✨ Thanks for visiting my profile — let’s build something impactful together!
