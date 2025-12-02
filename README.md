@@ -1,3 +1,4 @@
+![Banner](image%20linkedin.jfif)
 # Hi, I’m Jahily Andrea Morales 👋
 
 Curious, passionate, and always learning — I love turning data into insights that drive meaningful impact.
