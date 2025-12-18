@@ -18,11 +18,9 @@ I’m growing as a **Business Data Analyst**, creating insights that support inf
 ## 📂 Projects
 Welcome to my portfolio, where I showcase my projects:
 
-- [ML Models Comparison](https://github.com/Jahily1/ML-Models-Comparison) – Compared 2 traditional ML models and 1 deep learning model after preprocessing and cleaning the data.  
-- [Lyft Rides Dashboard](https://github.com/Jahily1/Lyft-Rides-Dashboard) – Analysis of my personal Lyft rides in Ottawa.  
-- [US Car Accidents Dashboard](https://github.com/Jahily1/US-Car-Accidents-Dashboard) – Exploration of public US car accident data.  
-- [Web Automation Testing](https://github.com/Jahily1/Web-Automation-Testing) – Automated web form testing and workflow verification to ensure data accuracy.
+- [US Car Accidents Dashboard](https://github.com/Jahily1/US-Car-Accidents-Dashboard) – Exploration of public US car accident data.
 
+  More personal projects are comming hehe
 
 ---
 
