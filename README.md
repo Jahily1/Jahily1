@@ -20,7 +20,7 @@ Welcome to my portfolio, where I showcase my projects:
 
 - [US Car Accidents Dashboard](https://github.com/Jahily1/US-Car-Accidents-Dashboard) – Exploration of public US car accident data.
 
-  More personal projects are comming hehe
+  **More personal projects are comming hehe :)**
 
 ---
 
