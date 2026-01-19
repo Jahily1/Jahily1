@@ -1,4 +1,4 @@
-![Banner](image%20linkedin.jfif)
+![Banner](Banner%20Data%20AnalystData%20Scientist%20(1).png)
 
 # Hello, I'm Jahily 👋
 
