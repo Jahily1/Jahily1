@@ -1,4 +1,4 @@
-![Banner](Banner%20Data%20AnalystData%20Scientist%20(1).png)
+![Banner](Github%20Banner.png)
 
 # Hello, I'm Jahily 👋
 
