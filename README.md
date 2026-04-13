@@ -16,12 +16,13 @@ I’m growing as a **Business Data Analyst**, creating insights that support inf
 ---
 
 ## 📂 Projects
+
 Welcome to my portfolio, where I showcase my projects:
 
-Job Market Analysis - Building a data pipeline to gather job postings using Python, SerpApi, and SQLite.
+### [Job Market Analysis](https://github.com/Jahily1/job-market-analysis)
+> Building a data pipeline to gather job postings using **Python**, **SerpApi**, and **SQLite**.
 
-  **More personal projects are comming hehe :)**
-
+✨ **More personal projects are coming soon!**
 ---
 
 
