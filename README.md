@@ -18,9 +18,7 @@ I’m growing as a **Business Data Analyst**, creating insights that support inf
 ## 📂 Projects
 Welcome to my portfolio, where I showcase my projects:
 
-- [US Car Accidents Dashboard](https://github.com/Jahily1/US-Car-Accidents-Dashboard) – Exploration of public US car accident data.
-- [Web Automation](https://github.com/Jahily1/Web-Automation-Testing) - Web Automation
-- [Sentiment Analysis](https://github.com/Jahily1/Sentiment_Analysis) -Sentiment Analysis
+Job Market Analysis - Building a data pipeline to gather job postings using Python, SerpApi, and SQLite.
 
   **More personal projects are comming hehe :)**
 
