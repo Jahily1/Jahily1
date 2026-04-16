@@ -19,6 +19,7 @@ I’m growing as a **Business Data Analyst**, creating insights that support inf
 
 Welcome to my portfolio, where I showcase my projects:
 ### [Financial & Stock Market Statistical Analysis ](https://github.com/Jahily1/Financial-Stock-Market-Statistical-Analysis-)
+> A 10-year comparative study using Python to analyze how tech and retail giants navigate risk. I used regression modeling and hypothesis testing to uncover how debt strategies directly impact stock volatility.
 
 ### [Business Analytics - Project Process Analysis](https://github.com/Jahily1/BA-Project-Process-Analysis)
 
