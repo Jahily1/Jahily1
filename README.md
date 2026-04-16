@@ -18,7 +18,10 @@ I’m growing as a **Business Data Analyst**, creating insights that support inf
 ## 📂 Projects
 
 Welcome to my portfolio, where I showcase my projects:
-### [BUsiness Analytics - Project Process Analysis](https://github.com/Jahily1/job-market-analysis)
+### [Financial & Stock Market Statistical Analysis ](https://github.com/Jahily1/Financial-Stock-Market-Statistical-Analysis-)
+
+### [Business Analytics - Project Process Analysis](https://github.com/Jahily1/BA-Project-Process-Analysis)
+
 > Strategic analysis and MIS integration to **optimize operational efficiency** and **service delivery workflows**.
 
 ### [Job Market Analysis](https://github.com/Jahily1/job-market-analysis)
