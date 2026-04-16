@@ -18,6 +18,9 @@ I’m growing as a **Business Data Analyst**, creating insights that support inf
 ## 📂 Projects
 
 Welcome to my portfolio, where I showcase my projects:
+### [Twitter Sentiment Classifier ](https://github.com/Jahily1/Sentiment_Analysis)
+> A comparative study evaluating XLM-T Transformers against XGBoost and Random Forest. Implemented TF-IDF vectorization and model fine-tuning to analyze social media sentiment, highlighting the architectural superiority of modern transformers for text classification.
+
 ### [Financial & Stock Market Statistical Analysis ](https://github.com/Jahily1/Financial-Stock-Market-Statistical-Analysis-)
 > A 10-year comparative study using Python to analyze how tech and retail giants navigate risk. I used regression modeling and hypothesis testing to uncover how debt strategies directly impact stock volatility.
 
