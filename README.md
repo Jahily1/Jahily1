@@ -3,7 +3,7 @@
 # Hello, I'm Jahily 👋
 
 Industrial Engineer and Business Analytics student in Canada.  
-I work with Python, Power BI, and Excel to clean, analyze, and visualize data, and I enjoy solving problems through data.
+I work with Python, SQL, Power BI, and Excel to clean, analyze, and visualize data, and I enjoy solving problems through data.
 
 ---
 
